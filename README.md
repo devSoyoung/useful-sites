@@ -29,7 +29,7 @@
 
 ## 디자인
 * [Material Design](https://material.io/design/)
-* [loading.io](https://loading.io/) : 로딩 아이콘을 CSS로 
+* [loading.io](https://loading.io/) : 로딩 아이콘을 CSS로 구현 
     
 ## 웹 에디터
 * [stackedit](https://stackedit.io/) : 마크다운 에디터
