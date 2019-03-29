@@ -2,6 +2,9 @@
 ## 색상
 * [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors/)
 * [color-hex](https://www.color-hex.com/)
+* [ColorSpace](https://mycolor.space/?hex=%23845EC2&sub=1) : 그라데이션 생성기
+* [Coolors.co](https://coolors.co/c9e4ca-87bba2-55828b-3b6064-364958) : 이미지에서 색상표 생성
+* [Color palette generator](https://www.canva.com/colors/color-palette-generator/) : 이미지에서 색상표 생성
 
 ## 아이콘
 * [flaticon](https://www.flaticon.com/)
@@ -29,7 +32,8 @@
 
 ## 디자인
 * [Material Design](https://material.io/design/)
-* [loading.io](https://loading.io/) : 로딩 아이콘을 CSS로 구현 
+* [loading.io](https://loading.io/) : 로딩 아이콘을 CSS로 구현
+* [Free CSS](https://www.free-css.com/) : 무료 CSS, template
     
 ## 웹 에디터
 * [stackedit](https://stackedit.io/) : 마크다운 에디터
